@@ -50,3 +50,23 @@ Following packages are required to be installed to run the above codes:
   + The testing datasets are available at the following link:
     > [Dataset](https://csciitd-my.sharepoint.com/:f:/g/personal/amz218313_iitd_ac_in/Ek5VwNvhbKhIjWR6L4SJvKUBqaPpQAj7akhWhpqt6Ucq-w?e=2Lwm1S)
   `The datasets must be placed inside the corresponding data folder`
+
+## Cite us at
+```
+@article{tripura2025neural,
+  title={Neural Combinatorial Wavelet Neural Operator for catastrophic forgetting free in-context operator learning of multiple partial differential equations},
+  author={Tripura, Tapas and Chakraborty, Souvik},
+  journal={Computer Physics Communications},
+  pages={109882},
+  year={2025},
+  publisher={Elsevier}
+}
+```
+```
+@article{tripura2023foundational,
+  title={A foundational neural operator that continuously learns without forgetting},
+  author={Tripura, Tapas and Chakraborty, Souvik},
+  journal={arXiv preprint arXiv:2310.18885},
+  year={2023}
+}
+```
