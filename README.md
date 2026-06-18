@@ -48,7 +48,7 @@ Following packages are required to be installed to run the above codes:
 
 ## Dataset
   + The testing datasets are available at the following link:
-    > [Dataset](https://csciitd-my.sharepoint.com/:f:/g/personal/amz218313_iitd_ac_in/Ek5VwNvhbKhIjWR6L4SJvKUBqaPpQAj7akhWhpqt6Ucq-w?e=2Lwm1S)
+    > [Dataset](https://drive.google.com/drive/folders/10O96ok9RvuAkZMa6l62QuKKQ1u4FN6e5?usp=sharing)
   `The datasets must be placed inside the corresponding data folder`
 
 ## Cite us at
